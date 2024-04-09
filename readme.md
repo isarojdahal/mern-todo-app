@@ -10,6 +10,6 @@ Frontend:
 
 Backend:
 
-- Node, Express, PrismaORM, Nodemon
+- Node, Express, Postgres, PrismaORM, Nodemon
 
 ---
